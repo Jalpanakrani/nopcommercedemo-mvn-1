@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1652188148292" stop="1652188148347" version="1.4.0">
+    <name>Default Suite</name>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="feature" value="nop-commerce-demo-maven-2"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

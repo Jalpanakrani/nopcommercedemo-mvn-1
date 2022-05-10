@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1652172709879" stop="1652172730975" version="1.4.0">
+    <name>Default Suite</name>
+    <test-cases>
+        <test-case start="1652172715945" stop="1652172719031" status="passed">
+            <name>verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully[2.2 GHz Intel Pentium Dual-Core E2200,2 GB,320 GB,Vista Home [+$50.00],Microsoft Office [+$50.00]]</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1652172722774" stop="1652172725108" status="passed">
+            <name>verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully[2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00],4GB [+$20.00],400 GB [+$100.00],Vista Premium [+$60.00],Acrobat Reader [+$10.00]]</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1652172727934" stop="1652172730267" status="passed">
+            <name>verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully[2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00],8GB [+$60.00],320 GB,Vista Home [+$50.00],Total Commander [+$5.00]]</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="feature" value="nop-commerce-demo-maven-2"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

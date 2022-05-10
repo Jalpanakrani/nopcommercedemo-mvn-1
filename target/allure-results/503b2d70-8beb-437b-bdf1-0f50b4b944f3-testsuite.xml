@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1652216826752" stop="1652216841494" version="1.4.0">
+    <name>Default Suite</name>
+    <test-cases>
+        <test-case start="1652216831051" stop="1652216831699" status="passed">
+            <name>verifyThatFirstNameLastNameEmailPasswordAndConfirmPasswordFieldsAreMandatory</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1652216835219" stop="1652216837018" status="passed">
+            <name>verifyThatUserShouldCreateAccountSuccessfully</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1652216840350" stop="1652216840811" status="passed">
+            <name>verifyUserShouldNavigateToRegisterPageSuccessfully</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="feature" value="nop-commerce-demo-maven-2"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
